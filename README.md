@@ -20,13 +20,8 @@ A minimal decentralized application for interacting with ERC-20 tokens on DIDLab
 - [MetaMask](https://metamask.io/) browser extension installed
 
 ### Local Development
-1. **Clone the repository:**
-   ```bash
-   git clone <your-repo-url>
-   cd didlab-erc20-dapp
-   ```
 
-2. **Run locally:**
+1. **Run locally:**
    ```bash
    # Option 1: Simple file server
    python -m http.server 8000
