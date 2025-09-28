@@ -177,3 +177,8 @@ MIT License - see LICENSE file for details
 DIDLab Team 07
 
 Screenshots: 
+<img width="1319" height="829" alt="3" src="https://github.com/user-attachments/assets/630ae1b3-2106-4aa9-a631-0469d279a021" />
+<img width="1283" height="818" alt="2" src="https://github.com/user-attachments/assets/62c31140-2364-4e09-a8ae-649ef9352577" />
+<img width="1303" height="815" alt="1" src="https://github.com/user-attachments/assets/336935f7-007d-4ac0-816e-804b9139a033" />
+<img width="1289" height="813" alt="4" src="https://github.com/user-attachments/assets/a514793c-07d8-4afa-8c9b-098fbae6c597" />
+
